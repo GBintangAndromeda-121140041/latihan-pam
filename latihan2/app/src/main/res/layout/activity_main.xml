@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:src="@style/ButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"/>
+
+    <Button
+        android:background="@drawable/button_primary_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Primary Button" />
+
+    <Button
+        android:background="@drawable/button_success_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Success Button"/>
+
+    <Button
+        android:background="@drawable/button_warning_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warning Button" />
+
+
+</LinearLayout>
