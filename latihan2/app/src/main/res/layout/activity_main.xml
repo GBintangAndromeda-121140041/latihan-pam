@@ -28,6 +28,6 @@
         android:layout_height="wrap_content"
         android:text="Warning Button" />
 
-<!--    Fix Remote Account -->
+
 
 </LinearLayout>
